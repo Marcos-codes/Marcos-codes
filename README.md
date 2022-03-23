@@ -1,16 +1,16 @@
-### Hi there 👋
+## Olá!  Eu Sou Marcos Vinicius
 
-<!--
-**Marcos-codes/Marcos-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho como suporte.
+- 🌱 Estudando ciencias da computação 6/8
+- 📫 Contate-me no email: vilok13@gmail.com
+- 😄 Pronouns: Ele/Dele
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/Marcos-codes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-codes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-codes&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+  ##
+  
