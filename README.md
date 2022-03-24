@@ -1,6 +1,6 @@
 ## Olá!  Eu Sou Marcos Vinicius
 
-- 🔭 Hoje trabalho como suporte.
+- 🔭 Hoje trabalho como Analista de Sistemas.
 - 🌱 Estudando ciencias da computação 6/8
 - 📫 Contate-me no email: vilok13@gmail.com
 - 😄 Pronouns: Ele/Dele
